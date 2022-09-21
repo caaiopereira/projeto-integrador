@@ -50,7 +50,7 @@ session_start();
     </div>
     <div class="container">
     <div style="text-align:center">
-    <img src="img/cerva.jpg">
+    <img src="cerva.jpg">
     <br>
     <br>
     </div>
