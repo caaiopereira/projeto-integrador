@@ -1,0 +1,116 @@
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 09:37:27
+Nome :aabc
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 09:37:41
+Nome :sdasd
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 09:43:38
+Nome :13
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 09:48:20
+Nome :aabc
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 09:57:25
+Nome :caio
+Login :md
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 10:06:28
+Nome :caaio
+Login :caioo
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 10:07:54
+Nome :caaio
+Login :caioo
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 10:08:24
+Nome :aabc
+Login :admin
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 10:15:20
+Nome :caaaaiio
+ :c
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
+Dados do Cliente - Cadastro realizado em :11/04/2022 as 10:16:37
+Nome :caaaaiio
+ :c
+Categoria :adm
+Rua :Rua Inhapi
+Bairro :Ramos
+Cidade :Rio de Janeiro
+UF :RJ
+Cep :21040040
+IBGE :3304557
+----------------------------
+
