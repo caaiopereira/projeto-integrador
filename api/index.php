@@ -52,7 +52,7 @@
     
 <main class="form-signin">
   <form action="login.php" method="post">
-    <img class="mb-4" src="img/logo.png" alt="" width="95px" height="auto">
+    <img class="mb-4" src="logo.png" alt="" width="95px" height="auto">
     <h1 class="h3 mb-3 fw-normal">Cervejaria</h1>
 
     <div class="form-floating">
